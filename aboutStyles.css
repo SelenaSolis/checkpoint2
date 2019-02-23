@@ -1,0 +1,51 @@
+*{
+    box-sizing:border-box;
+}
+
+body {
+    background-color:whitesmoke;
+}
+
+.aboutImage {
+    width:40%;
+    height:auto;
+    float:left;
+    margin-right:10px;
+}
+
+.aboutImage img{
+    width:100%;
+    height:auto;
+}
+
+.about h1{
+    font-family:georgia;
+    text-align:center;
+}
+
+.about h4{
+    font-size:15px;
+    font-family:arial;
+    line-height: 30px;
+}
+
+a p{
+    margin:0px;
+    padding:20px 0px;
+    text-align:center;
+}
+
+.article1 {
+    background-color:#e4bff3;
+}
+.article1 a{
+    margin:
+}
+
+.article2{
+    background-color:#b6f8a1;
+}
+
+.article3{
+    background-color:#adf0ea;
+}
