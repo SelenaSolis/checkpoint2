@@ -1,0 +1,82 @@
+*{
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align:center;
+}
+
+figcaption{
+    font-size:20px;
+    text-align:center;
+    font-family:georgia;
+}
+
+.cutOptions{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+figure{
+    margin: 0px;
+}
+
+a:link {
+    text-decoration: none;
+    color:black;
+}
+  
+  a:visited {
+    text-decoration: none;
+}
+  
+  a:hover {
+    text-decoration: underline;
+}
+
+.icon1, .icon2{
+    float:right;
+    margin:5px 15px;
+}
+
+.nav{
+    margin:20px;
+    text-align:center;
+}
+
+nav a{
+    font-size:25px;
+    font-family:georgia;
+    margin:0 20px;
+    text-decoration: none;
+}
+
+.logo h1 {
+    text-align:center;
+}
+
+.logoimg {
+    display:flex;
+    justify-content:center;
+}
+
+.logo {
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+}
+
+.logoimg img {
+    width:300px;
+    height:200px;
+    margin:0px 0px 20px 0px;
+}
+
+header {
+    border: 10px solid #7a6674;
+}
+
+.cutOptions{
+    background-color:#7a6674;
+}

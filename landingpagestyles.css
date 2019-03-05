@@ -2,6 +2,16 @@
     box-sizing: border-box;
 }
 
+.icon1, .icon2{
+    float:right;
+    margin:5px 15px;
+}
+
+a{
+    text-decoration: none;
+    color: #7a6674;
+}
+
 .nav{
     margin:20px;
     text-align:center;
