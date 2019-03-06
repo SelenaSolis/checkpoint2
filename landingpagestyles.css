@@ -93,6 +93,12 @@ figure{
     margin: 0px;
 }
 
+.iframe{
+    float:center;
+    text-align:center;
+}
+
+
 @media (max-width: 756px) {
     .cutOptions{
         display:flex;
