@@ -121,4 +121,11 @@ header {
         clear:both;
         margin:5px 15px;
     }
+
+    .image {
+        width:100%;
+        height:auto;
+        float:center;
+        clear:both;
+    }
 }
